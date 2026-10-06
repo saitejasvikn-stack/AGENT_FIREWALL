@@ -1,0 +1,27 @@
+# Database & SQLite files
+*.db
+*.sqlite
+agent_firewall.db
+
+# Python & Pytest caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+env/
+venv/
+
+# Environment secrets
+.env
+.env.local
+
+# Node & Next.js build files
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# OS metadata
+.DS_Store
+Thumbs.db
