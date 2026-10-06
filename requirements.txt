@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pyjwt
+passlib
+bcrypt
+pytest
+requests
+python-multipart
+reportlab
+httpx
+streamlit
